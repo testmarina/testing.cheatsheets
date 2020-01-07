@@ -1,0 +1,8 @@
+onfig --global user.name "Sam Smith"
+git config --global user.email sam@example.com
+folder adress C/;
+git init
+git add *
+git commit -m "Commit message"
+git remote add origin https://github.com/test
+git push -u origin master
